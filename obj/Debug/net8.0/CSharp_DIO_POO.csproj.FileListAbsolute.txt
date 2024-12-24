@@ -1,0 +1,15 @@
+E:\DIO.ME\CSharp_DIO_POO\bin\Debug\net8.0\CSharp_DIO_POO.exe
+E:\DIO.ME\CSharp_DIO_POO\bin\Debug\net8.0\CSharp_DIO_POO.deps.json
+E:\DIO.ME\CSharp_DIO_POO\bin\Debug\net8.0\CSharp_DIO_POO.runtimeconfig.json
+E:\DIO.ME\CSharp_DIO_POO\bin\Debug\net8.0\CSharp_DIO_POO.dll
+E:\DIO.ME\CSharp_DIO_POO\bin\Debug\net8.0\CSharp_DIO_POO.pdb
+E:\DIO.ME\CSharp_DIO_POO\obj\Debug\net8.0\CSharp_DIO_POO.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO.ME\CSharp_DIO_POO\obj\Debug\net8.0\CSharp_DIO_POO.AssemblyInfoInputs.cache
+E:\DIO.ME\CSharp_DIO_POO\obj\Debug\net8.0\CSharp_DIO_POO.AssemblyInfo.cs
+E:\DIO.ME\CSharp_DIO_POO\obj\Debug\net8.0\CSharp_DIO_POO.csproj.CoreCompileInputs.cache
+E:\DIO.ME\CSharp_DIO_POO\obj\Debug\net8.0\CSharp_DIO_POO.sourcelink.json
+E:\DIO.ME\CSharp_DIO_POO\obj\Debug\net8.0\CSharp_DIO_POO.dll
+E:\DIO.ME\CSharp_DIO_POO\obj\Debug\net8.0\refint\CSharp_DIO_POO.dll
+E:\DIO.ME\CSharp_DIO_POO\obj\Debug\net8.0\CSharp_DIO_POO.pdb
+E:\DIO.ME\CSharp_DIO_POO\obj\Debug\net8.0\CSharp_DIO_POO.genruntimeconfig.cache
+E:\DIO.ME\CSharp_DIO_POO\obj\Debug\net8.0\ref\CSharp_DIO_POO.dll
