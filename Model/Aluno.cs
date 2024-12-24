@@ -7,6 +7,10 @@ namespace CSharp_DIO_POO.Model
 {
     public class Aluno : Pessoa
     {
+        public Aluno(string nome) : base(nome)
+        {
+        }
+
         public double Nota { get; set; }
 
         public override void Apresentar()

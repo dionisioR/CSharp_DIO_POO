@@ -15,16 +15,20 @@
 // cc1.ExibirSaldo();
 
 //-----------------------------------------------------------------------------------------------
-Aluno a1 = new Aluno();
-a1.Nome = "Maria";
-a1.Idade = 20;
-a1.Email = "teste@g.com";
-a1.Nota = 8.5;
-a1.Apresentar();
-Console.WriteLine("--------------------");
-Professor prof1 = new Professor();
-prof1.Nome = "José";
-prof1.Idade = 40;
-prof1.Email = "prof@g.com";
-prof1.Salario = 5000;
-prof1.Apresentar();
+// Aluno a1 = new Aluno();
+// a1.Nome = "Maria";
+// a1.Idade = 20;
+// a1.Email = "teste@g.com";
+// a1.Nota = 8.5;
+// a1.Apresentar();
+// Console.WriteLine("--------------------");
+// Professor prof1 = new Professor();
+// prof1.Nome = "José";
+// prof1.Idade = 40;
+// prof1.Email = "prof@g.com";
+// prof1.Salario = 5000;
+// prof1.Apresentar();
+//-----------------------------------------------------------------------------------------------
+Corrente cc = new Corrente();
+cc.Creditar(1000);
+cc.ExibirSaldo();
