@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_DIO_POO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54c28d7b2d0ecd74f49eb14cc8755438de94f79d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f40ecac3706e73d0bbda18471b7d07561537c824")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp_DIO_POO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp_DIO_POO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

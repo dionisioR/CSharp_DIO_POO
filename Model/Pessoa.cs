@@ -9,9 +9,10 @@ namespace CSharp_DIO_POO.Model
     {
         public string Nome { get; set; }
         public int Idade { get; set; }
-        public void Apresentar()
+        public string Email { get; set; }
+        public virtual void Apresentar()
         {
-            Console.WriteLine($"Olá! Me chamo {Nome} e tenho {Idade} anos.");
+            Console.WriteLine($"Olá! Me chamo {Nome} e tenho {Idade} anos. Meu e-mail é {Email}");
         }
     }
 }
